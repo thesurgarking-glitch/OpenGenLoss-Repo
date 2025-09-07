@@ -1,0 +1,4 @@
+⚠️ Run this after cloning:
+
+    git submodule add https://github.com/iPlug2/iPlug2.git iPlug2
+    git submodule update --init --recursive
